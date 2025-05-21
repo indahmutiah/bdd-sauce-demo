@@ -13,3 +13,4 @@ This project is a simple demo of how to use Cucumber and Cypress together to aut
 
 1. Clone the repo
 2. Run `npm install` to install dependencies
+3. Run `npm test` to run the tests
