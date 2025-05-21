@@ -1,2 +1,15 @@
-# bdd-sauce-demo
-Sample Behavior-Driven Development (BDD) test automation using Cypress and Cucumber 
+# BDD Sauce Demo
+
+This project is a simple demo of how to use Cucumber and Cypress together to automate a simple web application.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- NPM
+
+### Installing
+
+1. Clone the repo
+2. Run `npm install` to install dependencies
