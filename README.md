@@ -2,6 +2,8 @@
 
 This project is a simple demo of how to use Cucumber and Cypress together to automate a simple web application.
 
+target: https://www.saucedemo.com/
+
 ## Getting Started
 
 ### Prerequisites
